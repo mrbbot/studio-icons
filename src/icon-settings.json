@@ -99,7 +99,6 @@
 				"ex",
 				"fasl",
 				"fish",
-				"go",
 				"haxe",
 				"hbs",
 				"hh",
@@ -423,6 +422,13 @@
 				".gitmodules",
 				".gitkeep"
 			]
+		},
+		{
+			"iconPath": "Go_16x.svg",
+			"fileExtensions": [
+				"go"
+			],
+			"fileNames": []
 		},
 		{
 			"iconPath": "HTMLFile_16x.svg",
@@ -888,7 +894,7 @@
 			"fileNames": []
 		},
 		{
-			"iconPath": "Vue_24x.svg",
+			"iconPath": "Vue_16x.svg",
 			"fileExtensions": [
 				"vue"
 			],
