@@ -132,7 +132,6 @@
 				"swift",
 				"tex",
 				"vb",
-				"vue",
 				"yaml",
 				"yml",
 				"zsh"
@@ -885,6 +884,13 @@
 				"vscodeignore",
 				"suo",
 				"sln"
+			],
+			"fileNames": []
+		},
+		{
+			"iconPath": "Vue_24x.svg",
+			"fileExtensions": [
+				"vue"
 			],
 			"fileNames": []
 		},

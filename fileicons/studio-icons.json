@@ -729,6 +729,15 @@
         "VisualStudioSettingFile_16x_contrast.svg": {
             "iconPath": "./images/VisualStudioSettingFile_16x_contrast.svg"
         },
+        "Vue_24x.svg": {
+            "iconPath": "./images/Vue_24x.svg"
+        },
+        "Vue_24x_inverse.svg": {
+            "iconPath": "./images/Vue_24x_inverse.svg"
+        },
+        "Vue_24x_contrast.svg": {
+            "iconPath": "./images/Vue_24x_contrast.svg"
+        },
         "WebFolder_16x.svg": {
             "iconPath": "./images/WebFolder_16x.svg"
         },
@@ -862,7 +871,6 @@
             "swift": "FOR_TEST_ONLY",
             "tex": "FOR_TEST_ONLY",
             "vb": "FOR_TEST_ONLY",
-            "vue": "FOR_TEST_ONLY",
             "yaml": "FOR_TEST_ONLY",
             "yml": "FOR_TEST_ONLY",
             "zsh": "FOR_TEST_ONLY",
@@ -1056,6 +1064,7 @@
             "vscodeignore": "VisualStudioSettingFile_16x.svg",
             "suo": "VisualStudioSettingFile_16x.svg",
             "sln": "VisualStudioSettingFile_16x.svg",
+            "vue": "Vue_24x.svg",
             "asmx": "WebService_16x.svg",
             "url": "WebURL_16x.svg",
             "ascx": "WebUserControl_16x.svg",
@@ -1196,7 +1205,6 @@
             "swift": "FOR_TEST_ONLY",
             "tex": "FOR_TEST_ONLY",
             "vb": "FOR_TEST_ONLY",
-            "vue": "FOR_TEST_ONLY",
             "yaml": "FOR_TEST_ONLY",
             "yml": "FOR_TEST_ONLY",
             "zsh": "FOR_TEST_ONLY",
@@ -1390,6 +1398,7 @@
             "vscodeignore": "VisualStudioSettingFile_16x_contrast.svg",
             "suo": "VisualStudioSettingFile_16x_contrast.svg",
             "sln": "VisualStudioSettingFile_16x_contrast.svg",
+            "vue": "Vue_24x_contrast.svg",
             "asmx": "WebService_16x_contrast.svg",
             "url": "WebURL_16x_contrast.svg",
             "ascx": "WebUserControl_16x_contrast.svg",
@@ -1529,7 +1538,6 @@
         "swift": "FOR_TEST_ONLY",
         "tex": "FOR_TEST_ONLY",
         "vb": "FOR_TEST_ONLY",
-        "vue": "FOR_TEST_ONLY",
         "yaml": "FOR_TEST_ONLY",
         "yml": "FOR_TEST_ONLY",
         "zsh": "FOR_TEST_ONLY",
@@ -1723,6 +1731,7 @@
         "vscodeignore": "VisualStudioSettingFile_16x_inverse.svg",
         "suo": "VisualStudioSettingFile_16x_inverse.svg",
         "sln": "VisualStudioSettingFile_16x_inverse.svg",
+        "vue": "Vue_24x_inverse.svg",
         "asmx": "WebService_16x_inverse.svg",
         "url": "WebURL_16x_inverse.svg",
         "ascx": "WebUserControl_16x_inverse.svg",
